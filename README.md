@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Satin! 👋
+- I'm a middle school student from China, and for now I'm studying in Southern California.
+- I’m currently working on
+  - _**[Rick Roll Esoteric Programming Language](https://github.com/Rick-Lang/rickroll-lang)**_
+  - _**[PyMorseCoder python library](https://github.com/PyMorseCoder/MorseCoder)**_
 
-<!--
-**XuQingGen/XuQingGen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rick Roll Programming Language Organization
+- https://github.com/Rick-Lang/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Favorite Singers
+- [Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Kenshi Yonezu (米津玄師)
+- [Silence Wang (汪苏泷)](https://en.wikipedia.org/wiki/Silence_Wang)
+- Alan Walker
+- Jolin Tsai (蔡依林)
+
+### My Favorite Television Drama
+[ShuiHu Zhuan (水浒传)](https://www.bilibili.com/bangumi/play/ep327285)
