@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### Hi there, I'm Satin Wuker! 👋
+- I'm a middle school student from China, and for now I'm studying in Southern California.
+- I have been doing some cool coding stuffs for 2 years!
+- I am a Chinese!
+- I’m currently working on
+  - _**[Rick Roll Esoteric Programming Language](https://github.com/Rick-Lang/rickroll-lang)**_
+  - _**[PyMorseCoder python library](https://github.com/PyMorseCoder/MorseCoder)**_
 
-You can use the [editor on GitHub](https://github.com/SatinWuker/SatinWuker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### The Rick Roll Programming Language
+Organization: https://github.com/Rick-Lang/
+<br>
+Official Website: https://rick-lang.github.io/rickroll-lang/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Favorite Singers
+- [Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Kenshi Yonezu (米津玄師)
+- [Silence Wang (汪苏泷)](https://en.wikipedia.org/wiki/Silence_Wang)
+- Alan Walker
+- Jolin Tsai (蔡依林)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SatinWuker/SatinWuker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### My Favorite Television Drama
+[ShuiHu Zhuan (水浒传)](https://www.bilibili.com/bangumi/play/ep327285)
