@@ -18,3 +18,8 @@ Official Website: https://rick-lang.github.io/rickroll-lang/
 
 ### My Favorite Television Drama
 [ShuiHu Zhuan (水浒传)](https://www.bilibili.com/bangumi/play/ep327285)
+
+### Chess
+User name on chess.com: CXK-53
+<br>
+(i am a trash
