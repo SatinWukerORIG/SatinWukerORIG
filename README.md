@@ -9,6 +9,9 @@ Organization: https://github.com/Rick-Lang/
 <br>
 Official Website: https://rick-lang.github.io/rickroll-lang/
 
+## The Sodium general purpose programming language
+discord server: https://discord.gg/hc2eRRBA
+
 ### My Favorite Singers
 - [Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - Kenshi Yonezu (米津玄師)
