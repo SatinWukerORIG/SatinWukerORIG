@@ -10,8 +10,6 @@ I’m currently working on
 ### WeChat 微信：
 githubsherlockcxk
 
-<img src="https://user-images.githubusercontent.com/74630829/156898378-e1fb0af3-30bc-443d-88a6-3c5fe73383ec.jpeg" >
-
 ### The Rick Roll Programming Language
 Organization: https://github.com/Rick-Lang/
 <br>
