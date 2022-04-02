@@ -15,4 +15,4 @@ Organization: https://github.com/Rick-Lang/
 <br>
 Official Website: https://rick-lang.github.io/rickroll-lang/
 <br>
-Discord: https://discord.gg/9NdjF5Yz
+Discord: https://discord.gg/bReSYQpc
