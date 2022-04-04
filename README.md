@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm a middle school student from China, and for now I'm studying in California.
+I am Satin Wuker.
 <br>
 I’m currently working on
   - **[Rickroll Programming Language](https://github.com/Rick-Lang/rickroll-lang)**
