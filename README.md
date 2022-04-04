@@ -1,6 +1,8 @@
 ### Hi there! 👋
 I am Satin Wuker.
-<br>
+
+![](https://github-readme-stats.vercel.app/api?username=SatinWuker&count_private=true)
+
 I’m currently working on
   - **[Rickroll Programming Language](https://github.com/Rick-Lang/rickroll-lang)**
 <img src="https://github.com/Rick-Lang/rickroll-lang/blob/main/img/newlogo.jpg?raw=true" width="200" height="200"/>
