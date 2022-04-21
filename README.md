@@ -2,6 +2,8 @@
 I am Satin Wuker.
 
 ![](https://github-readme-stats.vercel.app/api?username=SatinWuker&count_private=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatinWuker)
 
 I’m currently working on
   - **[Rickroll Programming Language](https://github.com/Rick-Lang/rickroll-lang)**
