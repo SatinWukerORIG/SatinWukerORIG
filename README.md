@@ -7,7 +7,6 @@ I am Satin Wuker.
 
 I’m currently working on
   - **[Rickroll Programming Language](https://github.com/Rick-Lang/rickroll-lang)**
-
   - **[Web Iota web scraper](https://github.com/SatinWuker/Web-Iota)**
 
 ### WeChat 微信：
