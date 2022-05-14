@@ -9,8 +9,9 @@ I’m currently working on
   - **[Rickroll Programming Language](https://github.com/Rick-Lang/rickroll-lang)**
   - **[Web Iota web scraper](https://github.com/SatinWuker/Web-Iota)**
 
-### WeChat 微信：
-githubsherlockcxk
+### Contact:
+WeChat: githubsherlockcxk
+Discord: Satin Wuker# 0572
 
 ### The Rick Roll Programming Language
 Organization: https://github.com/Rick-Lang/
