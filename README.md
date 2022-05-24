@@ -10,7 +10,7 @@ I’m currently working on
   - **[Web Iota web scraper](https://github.com/SatinWuker/Web-Iota)**
 
 ### Contact:
-WeChat: githubsherlockcxk
+WeChat: SatinWuker540
 Discord: Satin Wuker# 0572
 
 ### The Rick Roll Programming Language
