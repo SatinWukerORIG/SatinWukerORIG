@@ -6,8 +6,8 @@ I am Satin Wuker, the founder of the Rickroll programming language, an amateur d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatinWuker)
 
 I’m currently working on
-  - **[Rickroll Programming Language](https://github.com/Rick-Lang/rickroll-lang)**
-  - **[Web Iota web scraper](https://github.com/SatinWuker/Web-Iota)**
+  - **[Wonderwall Programming Language](https://github.com/SatinWuker/wonderwall)**
+  - **[Rubiks cube scrambler & solver](https://github.com/SatinWuker/Rubiks-lib)**
 
 ### Contact:
 WeChat: SatinWuker540
