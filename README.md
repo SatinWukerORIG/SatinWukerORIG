@@ -7,6 +7,7 @@ I am Satin Wuker, the founder of the Rickroll programming language, an amateur d
 
 I’m currently working on
   - **[Wonderwall Programming Language](https://github.com/SatinWuker/wonderwall)**
+  - **[Cantonese Programming Language in C++](https://github.com/Cantonese-community/CppCantonese)**
   - **[Rubiks cube scrambler & solver](https://github.com/SatinWuker/Rubiks-lib)**
 
 ### Contact:
