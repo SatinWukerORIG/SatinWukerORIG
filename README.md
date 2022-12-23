@@ -10,13 +10,15 @@ I’m currently working on
   - **[Cantonese Programming Language in C++](https://github.com/Cantonese-community/CppCantonese)**
   - **[Rubiks cube scrambler & solver](https://github.com/SatinWuker/Rubiks-lib)**
 
+not updating that usually cuz im in highschool ;-;
+
 ### Contact:
 WeChat: SatinWuker540
-Discord: Satin Wuker# 0572
+Discord: SatinW#0572
 
 ### The Rick Roll Programming Language
 Organization: https://github.com/Rick-Lang/
 <br>
 Official Website: https://rick-lang.github.io/rickroll-lang/
 <br>
-Discord: https://discord.gg/bReSYQpc
+Discord Server: https://discord.gg/bReSYQpc
