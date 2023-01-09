@@ -18,13 +18,7 @@ I’m currently working on
   - **[Cantonese Programming Language in C++](https://github.com/Cantonese-community/CppCantonese)**
 
 
-### Contact:
-WeChat: SatinWuker540
-Discord: SatinW#0572
-
 ### The Rick Roll Programming Language
 Organization: https://github.com/Rick-Lang/
 <br>
 Official Website: https://rick-lang.github.io/rickroll-lang/
-<br>
-Discord Server: https://discord.gg/bReSYQpc
