@@ -1,5 +1,7 @@
 ### Hi there! 👋
-I am Satin Wuker, the founder of the Rickroll programming language, an amateur dev who devotes himself in Rubik's cube, compiler & interpreter development, and web scrapers.
+I am Satin Wuker, the founder of the Rickroll programming language, an amateur dev who devotes himself in compiler & interpreter development, and web scrapers.
+
+![](https://img.shields.io/discord/915760402195959861?color=green&label=discord)
 
 ![](https://github-readme-stats.vercel.app/api?username=SatinWuker&count_private=true)
 <br>
