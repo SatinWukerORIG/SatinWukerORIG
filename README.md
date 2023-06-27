@@ -4,7 +4,7 @@ an amateur dev who devotes himself in compiler & interpreter development, and we
 🔎 Currently learning deep learning, mainly CNN, RNN, LSTM, and Transformer! <br>
 🛠️ Still tuning parameters of the cancer classification model... <br>
 🚀 Ultimate goals:
-1. Publish a paper on arxiv about the **large generative pre-trained transformer-based music harmony generation model**
+1. Publish a paper on science/nature about the **large generative pre-trained transformer-based music harmony generation model**
 2. Get into UC Berkeley for computer science major
 3. Make [Rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) great again
 3. Find a friend (female) who knows how to code <img src="https://i.pinimg.com/originals/20/3b/c2/203bc22442df63b3a82e7d4079f52403.jpg" width="25" height="25"> <img src="https://i.pinimg.com/originals/20/3b/c2/203bc22442df63b3a82e7d4079f52403.jpg" width="25" height="25">
