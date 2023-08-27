@@ -19,9 +19,9 @@ https://www.buymeacoffee.com/SatinWuker
 ![](https://img.shields.io/github/stars/Rick-lang?label=Rick-lang%20Team%20Stars&logoColor=red&style=social)
 ![](https://komarev.com/ghpvc/?username=SatinWuker)
 
-![](https://github-readme-stats.vercel.app/api?username=SatinWuker&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=SatinWukerORIG&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatinWuker)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatinWukerORIG)
 
 ### The Rick Roll Programming Language
 Organization: https://github.com/Rick-Lang/
