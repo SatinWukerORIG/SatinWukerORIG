@@ -27,3 +27,5 @@ https://www.buymeacoffee.com/SatinWuker
 Organization: https://github.com/Rick-Lang/
 <br>
 Official Website: https://rick-lang.github.io/rickroll-lang/
+
+## Future Successor Account: @SatinWuker
