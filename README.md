@@ -3,8 +3,8 @@ I am Satin Wuker, the founder of the Rickroll programming language; <br>
 an amateur dev who devotes himself to compiler & interpreter development, and web scrapers. <br>
 🔎 Currently learning deep learning, mainly CNN, RNN, LSTM, and Transformer! <br>
 🛠️ Still tuning parameters of the cancer classification model... <br>
-🚀 Ultimate goals:
-1. Publish a paper about the **large generative pre-trained transformer-based music harmony generation model**
+🚀 Goals:
+1. Learn more, do more, code more, think more.
 2. Get into UC Berkeley for the computer science major
 3. Make [Rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) great again
 
