@@ -17,7 +17,7 @@ https://www.buymeacoffee.com/SatinWuker
 ![](https://img.shields.io/discord/915760402195959861?color=green&label=discord)
 ![](https://img.shields.io/github/stars/SatinWukerORIG?label=My%20Stars&color=red&style=social)
 ![](https://img.shields.io/github/stars/Rick-lang?label=Rick-lang%20Team%20Stars&logoColor=red&style=social)
-![](https://komarev.com/ghpvc/?username=SatinWuker)
+![](https://komarev.com/ghpvc/?username=SatinWukerORIG)
 
 ![](https://github-readme-stats.vercel.app/api?username=SatinWukerORIG&count_private=true)
 <br>
