@@ -1,6 +1,6 @@
 ### Hi there! 👋
 I am Satin Wuker, the founder of the Rickroll programming language; <br>
-an amateur dev who devotes himself to compiler & interpreter development, and web scrapers. <br>
+a student & dev who devotes himself to compiler & interpreter development, and web scrapers. <br>
 🔎 Currently learning deep learning, mainly CNN, RNN, LSTM, and Transformer! <br>
 🛠️ Still tuning parameters of the cancer classification model... <br>
 🚀 Goals:
@@ -8,7 +8,7 @@ an amateur dev who devotes himself to compiler & interpreter development, and we
 2. Get into UC Berkeley for the computer science major
 3. Make [Rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) great again
 
-I became very busy since school started;-; <br>
+I have become very busy since school started ;-; Sorry if you find me not replying to your issue or PR<br>
 but will still try to put my effort into learning cutting-edge technology and publishing useful and outstanding projects!
 
 https://www.buymeacoffee.com/SatinWuker
