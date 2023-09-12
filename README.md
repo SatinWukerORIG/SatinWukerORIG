@@ -8,7 +8,7 @@ an amateur dev who devotes himself to compiler & interpreter development, and we
 2. Get into UC Berkeley for the computer science major
 3. Make [Rickroll-lang](https://github.com/Rick-Lang/rickroll-lang) great again
 
-not updating that usually bc of school;-; <br>
+I became very busy since school started;-; <br>
 but will still try to put my effort into learning cutting-edge technology and publishing useful and outstanding projects!
 
 https://www.buymeacoffee.com/SatinWuker
