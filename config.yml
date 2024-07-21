@@ -1,0 +1,95 @@
+categories:
+  - name: "🎸🎤 Rickroll-Programming Language"
+    description: "Exploring programming with a twist."
+    repos:
+      - name: "Rickroll-lang"
+        url: "https://github.com/Rick-Lang/rickroll-lang"
+        language: "Python"
+        description: "A a rickroll based, process oriented, dynamic, strong, esoteric programming language inspired by Rick Astley's famous song. All of the keywords/statements are from Rick Astley's lyrics. Built For Educational Purposes!"
+
+      - name: "Programming-language-explainer"
+        url: "https://github.com/Rick-Lang/programming-language-explainer"
+        language: "Typescript"
+        description: "reated by the Rickroll lang developer, this project is for educational purpose, teaching programmers how interpreters/compilers work by examples and interaction!"
+
+      - name: "rickroust"
+        url: "https://github.com/Rick-Lang/rickroust"
+        language: "Rust"
+        description: "The Rickroll Programing Language rewritten in Rust with an interpreter and an Inkwell (LLVM)-based compiler."
+
+  - name: "🔢🧠 Algorithms"
+    description: "Implementing various algorithms for fun and learning."
+    repos:
+      - name: "TheAlgorithms/Nim"
+        url: "https://github.com/TheAlgorithms/Nim"
+        language: "Nim"
+        description: "Collection of various algorithms implemented in Nim for educational purposes."
+
+      - name: "TheAlgorithms/Fortran"
+        url: "https://github.com/TheAlgorithms/Fortran"
+        language: "Fortran"
+        description: "All Algorithms implemented in Fortran. Making Fortran Great Again!"
+
+      - name: "TheAlgorithms/Mojo"
+        url: "https://github.com/TheAlgorithms/Mojo"
+        language: "Mojo"
+        description: "All algorithms implemented in Mojo. (The first open-sourced Mojo repository on GitHub)"
+
+
+  - name: "🤝✨ Contributed"
+    description: "Contributed during at spare time"
+    repos:
+      - name: "Cantonese Programming Language"
+        url: "https://github.com/StepfenShawn/Cantonese"
+        language: "Python/C++"
+        description: "粤语編程語言.The Cantonese programming language."
+
+      - name: "Lang Chain"
+        url: "https://github.com/langchain-ai/langchain"
+        language: "Python"
+        description: "🦜🔗 Build context-aware reasoning applications"
+
+      - name: "LLVM"
+        url: "https://github.com/llvm/llvm-project"
+        language: "C++"
+        description: "a collection of modular and reusable compiler and toolchain technologies."
+
+      - name: "CPython"
+        url: "https://github.com/python/cpython"
+        language: "C"
+        description: "The Python Programming Language"
+
+      - name: "DragonOS"
+        url: "https://github.com/DragonOS-Community/DragonOS"
+        language: "Rust"
+        description: "an operating system developed from scratch using Rust, with Linux compatibility. It is designed for lightweight cloud computing scenarios."
+
+
+  - name: "🔧🦾 Part-time Gizmos"
+    description: 'Building fun and somehow "useful" gizmos in my spare time.'
+    repos:
+      - name: "Rubiks-lib"
+        url: "https://github.com/SatinWukerORIG/Rubiks-lib"
+        language: "C++"
+        description: "A Rubik's Cube scrambler written in C++, very sketchy. Intended to make a programming language based on Rubik's cube."
+    
+      - name: "Web-Iota"
+        url: "https://github.com/SatinWukerORIG/Web-Iota"
+        language: "Python"
+        description: "a web scraper that can find all of the images and links/suburls on a webpage"
+
+      - name: "lsp"
+        url: "https://github.com/SatinWukerORIG/lsp"
+        language: "Python"
+        description: "When ran as a command, it randomly pulls a picture of an anime character, and automatically deletes after, with a limit of once/day"
+
+      - name: "GeneticCoder"
+        url: "https://github.com/SatinWukerORIG/GeneticCoder"
+        language: "Rust"
+        description: "RNA Genetic code encoder & decoder written in Rust"
+
+      - name: "Morsecoder"
+        url: "https://github.com/SatinWukerORIG/Morsecoder"
+        language: "Python"
+        description: "A simple Morse Code encoder & decoder"
+
