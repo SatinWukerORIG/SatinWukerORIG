@@ -21,7 +21,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 737
+      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 752
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/734f96/000000?text=+"></img>&nbsp;Fortran&nbsp;&nbsp;&nbsp;&nbsp;★ 35
+      <img src="https://via.placeholder.com/12/734f96/000000?text=+"></img>&nbsp;Fortran&nbsp;&nbsp;&nbsp;&nbsp;★ 42
     </td>
   </tr>
 </table>
@@ -98,7 +98,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/c6904b/000000?text=+"></img>&nbsp;Mojo&nbsp;&nbsp;&nbsp;&nbsp;★ 25
+      <img src="https://via.placeholder.com/12/c6904b/000000?text=+"></img>&nbsp;Mojo&nbsp;&nbsp;&nbsp;&nbsp;★ 33
     </td>
   </tr>
 </table>
