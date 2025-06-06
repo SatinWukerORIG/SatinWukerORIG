@@ -23,8 +23,6 @@ but I will still try to study cutting-edge technology and publish useful and out
     <td>
       <img src="https://placehold.co/12x12/3572A5/000000?text=%2B"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/github/stars/Rick-Lang/rickroll-lang"></img>
-      
-    </td>
   </tr>
 </table>
 <br>
