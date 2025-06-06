@@ -14,14 +14,16 @@ but I will still try to study cutting-edge technology and publish useful and out
 <table>
   <tr>
     <td>
-      <h3><a href="https://github.com/Rick-Lang/rickroll-lang">Rickroll-lang</a></h3>
+      <h3><a href="https://github.com/Rick-Lang/rickroll-lang">Rickroll-lang</a></h3> 
       A a rickroll based, process oriented, dynamic, strong, esoteric programming language inspired by Rick Astley's famous song. All of the keywords/statements are from Rick Astley's lyrics. Built For Educational Purposes!<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 752
+      <img src="https://placehold.co/12x12/3572A5/000000?text=%2B"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/Rick-Lang/rickroll-lang"></img>
+      
     </td>
   </tr>
 </table>
@@ -36,7 +38,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/000000/000000?text=+"></img>&nbsp;Typescript&nbsp;&nbsp;&nbsp;&nbsp;★ 6
+      <img src="https://placehold.co/12x12/000000/000000?text=%2B"></img>&nbsp;Typescript&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/Rick-Lang/programming-language-explainer"></img>
     </td>
   </tr>
 </table>
@@ -51,7 +54,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/dea584/000000?text=+"></img>&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 1
+       <img src="https://placehold.co/12x12/dea584/000000?text=%2B"></img>&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/Rick-Lang/rickroust"></img>
     </td>
   </tr>
 </table>
@@ -68,7 +72,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/ffc200/000000?text=+"></img>&nbsp;Nim&nbsp;&nbsp;&nbsp;&nbsp;★ 73
+      <img src="https://placehold.co/12x12/ffc200/000000?text=%2B"></img>&nbsp;Nim&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/TheAlgorithms/Nim"></img>
     </td>
   </tr>
 </table>
@@ -83,7 +88,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/734f96/000000?text=+"></img>&nbsp;Fortran&nbsp;&nbsp;&nbsp;&nbsp;★ 42
+       <img src="https://placehold.co/12x12/734f96/000000?text=%2B"></img>&nbsp;Fortran&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/TheAlgorithms/Fortran"></img>
     </td>
   </tr>
 </table>
@@ -98,7 +104,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/c6904b/000000?text=+"></img>&nbsp;Mojo&nbsp;&nbsp;&nbsp;&nbsp;★ 33
+      <img src="https://placehold.co/12x12/c6904b/000000?text=%2B"></img>&nbsp;Mojo&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/TheAlgorithms/Mojo"></img>
     </td>
   </tr>
 </table>
@@ -115,7 +122,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/000000/000000?text=+"></img>&nbsp;Python/C++&nbsp;&nbsp;&nbsp;&nbsp;★ 1147
+      <img src="https://placehold.co/12x12/000000/000000?text=%2B"></img>&nbsp;Python/C++&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/StepfenShawn/Cantonese"></img>
     </td>
   </tr>
 </table>
@@ -130,7 +138,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 89510
+      <img src="https://placehold.co/12x12/3572A5/000000?text=%2B"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/langchain-ai/langchain"></img>
     </td>
   </tr>
 </table>
@@ -145,7 +154,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/f34b7d/000000?text=+"></img>&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;★ 27077
+      <img src="https://placehold.co/12x12/f34b7d/000000?text=%2B"></img>&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/llvm/llvm-project"></img>
     </td>
   </tr>
 </table>
@@ -160,7 +170,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/555555/000000?text=+"></img>&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;★ 61240
+      <img src="https://placehold.co/12x12/555555/000000?text=%2B"></img>&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/python/cpython"></img>
     </td>
   </tr>
 </table>
@@ -175,7 +186,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/dea584/000000?text=+"></img>&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 834
+      <img src="https://placehold.co/12x12/dea584/000000?text=%2B"></img>&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/github/stars/DragonOS-Community/DragonOS"></img>
     </td>
   </tr>
 </table>
@@ -192,7 +204,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/f34b7d/000000?text=+"></img>&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;★ 17
+    <img src="https://placehold.co/12x12/f34b7d/000000?text=%2B"></img>&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/SatinWukerORIG/Rubiks-lib"></img>
     </td>
   </tr>
 </table>
@@ -207,7 +220,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 61
+    <img src="https://placehold.co/12x12/3572A5/000000?text=%2B"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/SatinWukerORIG/Web-Iota"></img>
     </td>
   </tr>
 </table>
@@ -222,7 +236,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 26
+    <img src="https://placehold.co/12x12/3572A5/000000?text=%2B"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/SatinWukerORIG/lsp"></img>
     </td>
   </tr>
 </table>
@@ -237,7 +252,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/dea584/000000?text=+"></img>&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 5
+    <img src="https://placehold.co/12x12/dea584/000000?text=%2B"></img>&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/SatinWukerORIG/GeneticCoder"></img>
     </td>
   </tr>
 </table>
@@ -252,7 +268,8 @@ but I will still try to study cutting-edge technology and publish useful and out
   </tr>
   <tr>
     <td>
-      <img src="https://via.placeholder.com/12/3572A5/000000?text=+"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 28
+    <img src="https://placehold.co/12x12/3572A5/000000?text=%2B"></img>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/github/stars/SatinWukerORIG/Morsecoder"></img>
     </td>
   </tr>
 </table>
