@@ -2,7 +2,7 @@ import requests
 import yaml
 
 # Load configuration
-with open('config.yml', 'r') as config_file:
+with open('config.yml', 'r', encoding='utf-8') as config_file:
     config = yaml.safe_load(config_file)
 
 # Define language colors
@@ -43,33 +43,53 @@ but I will still try to study cutting-edge technology and publish useful and out
 """
 
     for category in config['categories']:
-        readme_content += f'<td valign="top"><h2>{category["name"]}</h2><i>{category["description"]}</i><br><br>\n'
-        for repo in category['repos']:
+        readme_content += f'<h2>{category["name"]}</h2>\n'
+        readme_content += f'<i>{category["description"]}</i>\n\n'
+        readme_content += '<table>\n'
+        
+        # Process repos in pairs (two per row)
+        repos = category['repos']
+        for i in range(0, len(repos), 2):
+            readme_content += '  <tr>\n'
+            
+            # First column (always exists)
+            repo = repos[i]
             star_count = get_star_count(repo['url'])
             language_color = language_colors.get(repo["language"], "000000")
-            readme_content += (
-                '<table>\n'
-                '  <tr>\n'
-                '    <td>\n'
-                f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
-                f'      {repo.get("description", "")}<br><br>\n'
-                '      ____________________________________________________________<br><br>\n'
-                '    </td>\n'
-                '  </tr>\n'
-                '  <tr>\n'
-                '    <td>\n'
-                f'      <img src="https://via.placeholder.com/12/{language_color}/000000?text=+"></img>&nbsp;'
-                f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
-                '    </td>\n'
-                '  </tr>\n'
-                '</table>\n<br>\n'
-            )
-        readme_content += '<br>\n'
+            readme_content += '    <td valign="top" width="50%">\n'
+            readme_content += f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
+            readme_content += f'      {repo.get("description", "")}<br><br>\n'
+            readme_content += '      ____________________________________________________________<br><br>\n'
+            readme_content += f'      <img src="https://via.placeholder.com/12/{language_color}/000000?text=+"></img>&nbsp;'
+            readme_content += f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
+            readme_content += '    </td>\n'
+            
+            # Second column (if exists)
+            if i + 1 < len(repos):
+                repo = repos[i + 1]
+                star_count = get_star_count(repo['url'])
+                language_color = language_colors.get(repo["language"], "000000")
+                readme_content += '    <td valign="top" width="50%">\n'
+                readme_content += f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
+                readme_content += f'      {repo.get("description", "")}<br><br>\n'
+                readme_content += '      ____________________________________________________________<br><br>\n'
+                readme_content += f'      <img src="https://via.placeholder.com/12/{language_color}/000000?text=+"></img>&nbsp;'
+                readme_content += f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
+                readme_content += '    </td>\n'
+            else:
+                # Empty cell for odd number of repos
+                readme_content += '    <td valign="top" width="50%">\n'
+                readme_content += '    </td>\n'
+            
+            readme_content += '  </tr>\n'
+        
+        readme_content += '</table>\n\n'
+    
     return readme_content
 
 # Write README.md
 readme_content = generate_readme(config)
-with open('README.md', 'w') as readme_file:
+with open('README.md', 'w', encoding='utf-8') as readme_file:
     readme_file.write(readme_content)
 
 print("README.md has been generated successfully.")
