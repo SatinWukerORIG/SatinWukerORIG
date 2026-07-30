@@ -5,18 +5,18 @@ import yaml
 with open('config.yml', 'r', encoding='utf-8') as config_file:
     config = yaml.safe_load(config_file)
 
-# Define language colors using flat colored square emojis
+# Define language colors using colored circle emojis
 language_emojis = {
-    "Rust": "🟧",  # Orange square
-    "Python": "🟦",  # Blue square
-    "JavaScript": "🟨",  # Yellow square
-    "C++": "🟥",  # Red square
-    "Mojo": "🟫",  # Brown square
-    "Fortran": "🟪",  # Purple square
-    "Nim": "🟨",  # Yellow square
-    "C": "⬛",  # Black square
-    "TypeScript": "🟦",  # Blue square
-    "Python/C++": "🟦"  # Blue square for mixed
+    "Rust": "🟠",  # Orange circle
+    "Python": "🔵",  # Blue circle
+    "JavaScript": "🟡",  # Yellow circle
+    "C++": "🔴",  # Red circle
+    "Mojo": "🟤",  # Brown circle
+    "Fortran": "🟣",  # Purple circle
+    "Nim": "🟡",  # Yellow circle
+    "C": "⚫",  # Black circle
+    "TypeScript": "🔵",  # Blue circle
+    "Python/C++": "🔵"  # Blue circle for mixed
 }
 
 # Function to get star count from GitHub API
