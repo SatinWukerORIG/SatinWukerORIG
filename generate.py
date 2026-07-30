@@ -5,17 +5,18 @@ import yaml
 with open('config.yml', 'r', encoding='utf-8') as config_file:
     config = yaml.safe_load(config_file)
 
-# Define language colors
-language_colors = {
-    "Rust": "dea584",
-    "Python": "3572A5",
-    "JavaScript": "f1e05a",
-    "C++": "f34b7d",
-    "Mojo": "c6904b",
-    "Fortran": "734f96",
-    "Nim": "ffc200",
-    "C": "555555",
-    "TypeScript": "2b7489"
+# Define language colors using flat colored square emojis
+language_emojis = {
+    "Rust": "🟧",  # Orange square
+    "Python": "🟦",  # Blue square
+    "JavaScript": "🟨",  # Yellow square
+    "C++": "🟥",  # Red square
+    "Mojo": "🟫",  # Brown square
+    "Fortran": "🟪",  # Purple square
+    "Nim": "🟨",  # Yellow square
+    "C": "⬛",  # Black square
+    "TypeScript": "🟦",  # Blue square
+    "Python/C++": "🟦"  # Blue square for mixed
 }
 
 # Function to get star count from GitHub API
@@ -55,12 +56,12 @@ but I will still try to study cutting-edge technology and publish useful and out
             # First column (always exists)
             repo = repos[i]
             star_count = get_star_count(repo['url'])
-            language_color = language_colors.get(repo["language"], "000000")
+            language_emoji = language_emojis.get(repo["language"], "⚪")
             readme_content += '    <td valign="top" width="50%">\n'
             readme_content += f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
             readme_content += f'      {repo.get("description", "")}<br><br>\n'
             readme_content += '      ____________________________________________________________<br><br>\n'
-            readme_content += f'      <svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><circle cx="6" cy="6" r="6" fill="#{language_color}"/></svg>&nbsp;'
+            readme_content += f'      {language_emoji}&nbsp;'
             readme_content += f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
             readme_content += '    </td>\n'
             
@@ -68,12 +69,12 @@ but I will still try to study cutting-edge technology and publish useful and out
             if i + 1 < len(repos):
                 repo = repos[i + 1]
                 star_count = get_star_count(repo['url'])
-                language_color = language_colors.get(repo["language"], "000000")
+                language_emoji = language_emojis.get(repo["language"], "⚪")
                 readme_content += '    <td valign="top" width="50%">\n'
                 readme_content += f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
                 readme_content += f'      {repo.get("description", "")}<br><br>\n'
                 readme_content += '      ____________________________________________________________<br><br>\n'
-                readme_content += f'      <svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><circle cx="6" cy="6" r="6" fill="#{language_color}"/></svg>&nbsp;'
+                readme_content += f'      {language_emoji}&nbsp;'
                 readme_content += f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
                 readme_content += '    </td>\n'
             else:
