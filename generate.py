@@ -60,7 +60,7 @@ but I will still try to study cutting-edge technology and publish useful and out
             readme_content += f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
             readme_content += f'      {repo.get("description", "")}<br><br>\n'
             readme_content += '      ____________________________________________________________<br><br>\n'
-            readme_content += f'      <img src="https://via.placeholder.com/12/{language_color}/000000?text=+"></img>&nbsp;'
+            readme_content += f'      <svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><circle cx="6" cy="6" r="6" fill="#{language_color}"/></svg>&nbsp;'
             readme_content += f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
             readme_content += '    </td>\n'
             
@@ -73,7 +73,7 @@ but I will still try to study cutting-edge technology and publish useful and out
                 readme_content += f'      <h3><a href="{repo["url"]}">{repo["name"]}</a></h3>\n'
                 readme_content += f'      {repo.get("description", "")}<br><br>\n'
                 readme_content += '      ____________________________________________________________<br><br>\n'
-                readme_content += f'      <img src="https://via.placeholder.com/12/{language_color}/000000?text=+"></img>&nbsp;'
+                readme_content += f'      <svg width="12" height="12" xmlns="http://www.w3.org/2000/svg"><circle cx="6" cy="6" r="6" fill="#{language_color}"/></svg>&nbsp;'
                 readme_content += f'{repo["language"]}&nbsp;&nbsp;&nbsp;&nbsp;★ {star_count}\n'
                 readme_content += '    </td>\n'
             else:
