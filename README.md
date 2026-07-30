@@ -99,7 +99,7 @@ but I will still try to study cutting-edge technology and publish useful and out
       <h3><a href="https://github.com/python/cpython">CPython</a></h3>
       The Python Programming Language<br><br>
       ____________________________________________________________<br><br>
-      ⚫&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      ⚫&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;★ 74k
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ but I will still try to study cutting-edge technology and publish useful and out
       <h3><a href="https://github.com/DragonOS-Community/DragonOS">DragonOS</a></h3>
       An operating system developed from scratch using Rust, with Linux compatibility. It is designed for lightweight cloud computing scenarios.<br><br>
       ____________________________________________________________<br><br>
-      🟠&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      🟠&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 1.2k
     </td>
     <td valign="top" width="50%">
     </td>
@@ -123,13 +123,13 @@ but I will still try to study cutting-edge technology and publish useful and out
       <h3><a href="https://github.com/SatinWukerORIG/Rubiks-lib">Rubiks-lib</a></h3>
       A Rubik's Cube scrambler written in C++, very sketchy. Intended to make a programming language based on Rubik's Cube.<br><br>
       ____________________________________________________________<br><br>
-      🔴&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      🔴&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;★ 18
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/SatinWukerORIG/Web-Iota">Web-Iota</a></h3>
       A web scraper that can find all of the images and links/suburls on a webpage<br><br>
       ____________________________________________________________<br><br>
-      🔵&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      🔵&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 59
     </td>
   </tr>
   <tr>
@@ -137,13 +137,13 @@ but I will still try to study cutting-edge technology and publish useful and out
       <h3><a href="https://github.com/SatinWukerORIG/lsp">lsp</a></h3>
       When run as a command, it randomly pulls a picture of an anime character, and automatically deletes it after, with a limit of once/day<br><br>
       ____________________________________________________________<br><br>
-      🔵&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      🔵&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 27
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/SatinWukerORIG/GeneticCoder">GeneticCoder</a></h3>
       RNA Genetic code encoder & decoder written in Rust<br><br>
       ____________________________________________________________<br><br>
-      🟠&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      🟠&nbsp;Rust&nbsp;&nbsp;&nbsp;&nbsp;★ 4
     </td>
   </tr>
   <tr>
@@ -151,7 +151,7 @@ but I will still try to study cutting-edge technology and publish useful and out
       <h3><a href="https://github.com/SatinWukerORIG/Morsecoder">Morsecoder</a></h3>
       A simple Morse Code encoder & decoder<br><br>
       ____________________________________________________________<br><br>
-      🔵&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 0
+      🔵&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;★ 28
     </td>
     <td valign="top" width="50%">
     </td>
