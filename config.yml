@@ -5,17 +5,17 @@ categories:
       - name: "Rickroll-lang"
         url: "https://github.com/Rick-Lang/rickroll-lang"
         language: "Python"
-        description: "A a rickroll based, process oriented, dynamic, strong, esoteric programming language inspired by Rick Astley's famous song. All of the keywords/statements are from Rick Astley's lyrics. Built For Educational Purposes!"
+        description: "A rickroll-based, process-oriented, dynamic, strong, esoteric programming language inspired by Rick Astley's famous song. All of the keywords/statements are from Rick Astley's lyrics. Built For Educational Purposes!"
 
       - name: "Programming-language-explainer"
         url: "https://github.com/Rick-Lang/programming-language-explainer"
-        language: "Typescript"
-        description: "reated by the Rickroll lang developer, this project is for educational purpose, teaching programmers how interpreters/compilers work by examples and interaction!"
+        language: "TypeScript"
+        description: "Created by the Rickroll lang developer, this project is for educational purposes, teaching programmers how interpreters/compilers work by examples and interaction!"
 
       - name: "rickroust"
         url: "https://github.com/Rick-Lang/rickroust"
         language: "Rust"
-        description: "The Rickroll Programing Language rewritten in Rust with an interpreter and an Inkwell (LLVM)-based compiler."
+        description: "The Rickroll Programming Language rewritten in Rust with an interpreter and an Inkwell (LLVM)-based compiler."
 
   - name: "🔢🧠 Algorithms"
     description: "Implementing various algorithms for fun and learning."
@@ -33,7 +33,7 @@ categories:
       - name: "TheAlgorithms/Mojo"
         url: "https://github.com/TheAlgorithms/Mojo"
         language: "Mojo"
-        description: "All algorithms implemented in Mojo. (The first open-sourced Mojo repository on GitHub)"
+        description: "All algorithms implemented in Mojo. (The first open-source Mojo repository on GitHub)"
 
 
   - name: "🤝✨ Contributed"
@@ -52,7 +52,7 @@ categories:
       - name: "LLVM"
         url: "https://github.com/llvm/llvm-project"
         language: "C++"
-        description: "a collection of modular and reusable compiler and toolchain technologies."
+        description: "A collection of modular and reusable compiler and toolchain technologies."
 
       - name: "CPython"
         url: "https://github.com/python/cpython"
@@ -62,7 +62,7 @@ categories:
       - name: "DragonOS"
         url: "https://github.com/DragonOS-Community/DragonOS"
         language: "Rust"
-        description: "an operating system developed from scratch using Rust, with Linux compatibility. It is designed for lightweight cloud computing scenarios."
+        description: "An operating system developed from scratch using Rust, with Linux compatibility. It is designed for lightweight cloud computing scenarios."
 
 
   - name: "🔧🦾 Part-time Gizmos"
@@ -71,17 +71,17 @@ categories:
       - name: "Rubiks-lib"
         url: "https://github.com/SatinWukerORIG/Rubiks-lib"
         language: "C++"
-        description: "A Rubik's Cube scrambler written in C++, very sketchy. Intended to make a programming language based on Rubik's cube."
+        description: "A Rubik's Cube scrambler written in C++, very sketchy. Intended to make a programming language based on Rubik's Cube."
     
       - name: "Web-Iota"
         url: "https://github.com/SatinWukerORIG/Web-Iota"
         language: "Python"
-        description: "a web scraper that can find all of the images and links/suburls on a webpage"
+        description: "A web scraper that can find all of the images and links/suburls on a webpage"
 
       - name: "lsp"
         url: "https://github.com/SatinWukerORIG/lsp"
         language: "Python"
-        description: "When ran as a command, it randomly pulls a picture of an anime character, and automatically deletes after, with a limit of once/day"
+        description: "When run as a command, it randomly pulls a picture of an anime character, and automatically deletes it after, with a limit of once/day"
 
       - name: "GeneticCoder"
         url: "https://github.com/SatinWukerORIG/GeneticCoder"
