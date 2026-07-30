@@ -15,7 +15,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/Rick-Lang/rickroll-lang">Rickroll-lang</a></h3> 
-      A a rickroll based, process oriented, dynamic, strong, esoteric programming language inspired by Rick Astley's famous song. All of the keywords/statements are from Rick Astley's lyrics. Built For Educational Purposes!<br><br>
+      A rickroll-based, process-oriented, dynamic, strong, esoteric programming language inspired by Rick Astley's famous song. All of the keywords/statements are from Rick Astley's lyrics. Built For Educational Purposes!<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
@@ -30,7 +30,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/Rick-Lang/programming-language-explainer">Programming-language-explainer</a></h3>
-      reated by the Rickroll lang developer, this project is for educational purpose, teaching programmers how interpreters/compilers work by examples and interaction!<br><br>
+      Created by the Rickroll lang developer, this project is for educational purposes, teaching programmers how interpreters/compilers work by examples and interaction!<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
@@ -46,7 +46,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/Rick-Lang/rickroust">rickroust</a></h3>
-      The Rickroll Programing Language rewritten in Rust with an interpreter and an Inkwell (LLVM)-based compiler.<br><br>
+      The Rickroll Programming Language rewritten in Rust with an interpreter and an Inkwell (LLVM)-based compiler.<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
@@ -96,7 +96,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/TheAlgorithms/Mojo">TheAlgorithms/Mojo</a></h3>
-      All algorithms implemented in Mojo. (The first open-sourced Mojo repository on GitHub)<br><br>
+      All algorithms implemented in Mojo. (The first open-source Mojo repository on GitHub)<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
@@ -146,7 +146,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/llvm/llvm-project">LLVM</a></h3>
-      a collection of modular and reusable compiler and toolchain technologies.<br><br>
+      A collection of modular and reusable compiler and toolchain technologies.<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
@@ -178,7 +178,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/DragonOS-Community/DragonOS">DragonOS</a></h3>
-      an operating system developed from scratch using Rust, with Linux compatibility. It is designed for lightweight cloud computing scenarios.<br><br>
+      An operating system developed from scratch using Rust, with Linux compatibility. It is designed for lightweight cloud computing scenarios.<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
@@ -212,7 +212,7 @@ but I will still try to study cutting-edge technology and publish useful and out
   <tr>
     <td>
       <h3><a href="https://github.com/SatinWukerORIG/Web-Iota">Web-Iota</a></h3>
-      a web scraper that can find all of the images and links/suburls on a webpage<br><br>
+      A web scraper that can find all of the images and links/suburls on a webpage<br><br>
       ____________________________________________________________<br><br>
     </td>
   </tr>
